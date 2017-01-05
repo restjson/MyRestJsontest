@@ -1,2 +1,148 @@
-Patrick;1;rouge
-Jean;2;rouge
+{
+  "Client": [
+    {
+      "_id": "586e100e402274ceb923db36",
+      "index": 0,
+      "isActive": true,
+      "balance": "$3,696.94",
+      "age": 26,
+      "eyeColor": "brown",
+      "name": "Nicholson Byrd",
+      "gender": "male",
+      "company": "CIPROMOX",
+      "email": "nicholsonbyrd@cipromox.com",
+      "about": "Veniam aute ex velit tempor ad ad aliqua consequat. Ad exercitation sit qui exercitation minim aute culpa commodo et adipisicing aliquip consectetur sint. Sunt voluptate dolore in ullamco deserunt do laborum veniam et pariatur nulla tempor ipsum. Minim et laborum commodo velit. In labore dolore ullamco velit ipsum Lorem enim mollit laboris do sint ad. Officia esse ad consectetur ullamco proident nisi excepteur in ut elit quis ullamco commodo.\r\n",
+      "registered": "2016-11-29T05:21:48 -01:00",
+      "tags": [
+        "do",
+        "sit",
+        "fugiat",
+        "pariatur"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Spears Whitley"
+        },
+        {
+          "id": 1,
+          "name": "Copeland Yates"
+        },
+        {
+          "id": 2,
+          "name": "Jodie Kirk"
+        }
+      ],
+      "greeting": "Hello, Nicholson Byrd! You have 10 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "586e100ea55691ebec9a5285",
+      "index": 1,
+      "isActive": false,
+      "balance": "$2,095.57",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Lea Moss",
+      "gender": "female",
+      "company": "QUAREX",
+      "email": "leamoss@quarex.com",
+      "about": "Occaecat est nulla eu ut sunt anim amet eu. Ex cillum nulla et dolore ea esse pariatur incididunt duis incididunt deserunt. Lorem sit tempor minim irure ex ipsum aute exercitation aute deserunt laboris esse dolore. Aute ex cillum cillum amet. Eu duis eiusmod cillum eu labore fugiat anim officia laborum. Deserunt laborum eiusmod pariatur aliqua est officia tempor laboris reprehenderit eu. Nulla sit mollit elit fugiat elit.\r\n",
+      "registered": "2016-10-10T10:00:25 -02:00",
+      "tags": [
+        "fugiat",
+        "nulla",
+        "sint",
+        "aliquip"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Schultz Harvey"
+        },
+        {
+          "id": 1,
+          "name": "Rush Willis"
+        },
+        {
+          "id": 2,
+          "name": "Cain Hurst"
+        }
+      ],
+      "greeting": "Hello, Lea Moss! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "586e100efa359f3d9d3da411",
+      "index": 2,
+      "isActive": false,
+      "balance": "$3,216.72",
+      "age": 35,
+      "eyeColor": "green",
+      "name": "Haley Patel",
+      "gender": "male",
+      "company": "AVIT",
+      "email": "haleypatel@avit.com",
+      "about": "Esse nisi occaecat pariatur anim magna fugiat id voluptate ex do ex proident id id. Aliqua id sunt deserunt ipsum est ut consequat in. Do pariatur tempor magna minim mollit pariatur.\r\n",
+      "registered": "2015-12-12T12:09:35 -01:00",
+      "tags": [
+        "magna",
+        "ex",
+        "nulla",
+        "sint"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Shauna Mcneil"
+        },
+        {
+          "id": 1,
+          "name": "Alvarez Velasquez"
+        },
+        {
+          "id": 2,
+          "name": "Rodgers Sears"
+        }
+      ],
+      "greeting": "Hello, Haley Patel! You have 3 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "586e100ea4c492a858280574",
+      "index": 3,
+      "isActive": false,
+      "balance": "$1,811.11",
+      "age": 20,
+      "eyeColor": "blue",
+      "name": "Luz Lane",
+      "gender": "female",
+      "company": "RENOVIZE",
+      "email": "luzlane@renovize.com",
+      "about": "Irure elit qui nisi id do do mollit sit labore velit. Reprehenderit mollit id culpa laborum dolore in deserunt veniam incididunt tempor excepteur. Lorem et sit officia sint laborum ex in Lorem labore officia commodo minim et commodo. Do aliqua elit sint occaecat consectetur reprehenderit enim. Exercitation magna ad commodo tempor excepteur voluptate culpa occaecat tempor. Id minim ipsum enim sint.\r\n",
+      "registered": "2015-02-12T11:40:52 -01:00",
+      "tags": [
+        "reprehenderit",
+        "eu",
+        "exercitation",
+        "adipisicing"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Thornton Burgess"
+        },
+        {
+          "id": 1,
+          "name": "Dickerson Rosales"
+        },
+        {
+          "id": 2,
+          "name": "Simpson Burris"
+        }
+      ],
+      "greeting": "Hello, Luz Lane! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    }
+  ]
+}
